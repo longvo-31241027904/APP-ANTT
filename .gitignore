@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local demos, test data and evidence
+/mau/
+/minh-chung-giao-dien*/
+.antt-*/
+safepack-measure-*/
+generate_proofs_and_test.py
+*.7z
+*.csv
+*.docx
+*.pdf
+*.zip
+*.log
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
